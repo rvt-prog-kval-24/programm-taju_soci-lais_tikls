@@ -15,8 +15,17 @@ Projektā tiek pielietots:
 - GIT
 
 ### Uzstādīšanas instrukcijas
-Aizpildi .env datus pēc sekojošā piemēra
+Lejupielādēt vai kopēt visus failus no repozitorija:
+ 
+ - git clone https://github.com/rvt-prog-kval-24/programm-taju_soci-lais_tikls.git
 
+Obligati jābūt datorā:
+  -VSC (redīģešanai).
+  -Wamp.
+Jāimporte failu - web_database.sql iekš PhpMyAdmin.
+
+Lai aiziet uz vietni:
+ - Meklēšanas joslā uzrakstit: http://localhost/website/login.php
 
 
 
